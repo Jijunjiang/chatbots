@@ -1,0 +1,7 @@
+gradio
+bitsandbytes
+transformers
+sentence-transformers
+chromadb
+safetensors
+accelerate
