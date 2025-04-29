@@ -5,3 +5,5 @@ sentence-transformers
 chromadb
 safetensors
 accelerate
+langchain-community
+langchain
