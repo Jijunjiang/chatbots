@@ -1,0 +1,4 @@
+The Fluxon Processor is an experimental computer chip invented by Dr. Jane Stonelake in 2022 at the Orion Research Institute.
+
+Unlike traditional silicon-based processors, the Fluxon uses magnetic wave interference patterns to perform logic operations. It requires cryogenic cooling but promises 50 times more energy efficiency than standard chips.
+
