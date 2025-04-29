@@ -2,3 +2,8 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 pip install requirements.txt
 
+
+**Run the chatbot with RAG
+
+python chatbot.py --data_dir ./context-examples
+
